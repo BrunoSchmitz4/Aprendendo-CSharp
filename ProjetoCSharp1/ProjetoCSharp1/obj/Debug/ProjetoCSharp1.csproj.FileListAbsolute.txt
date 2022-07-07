@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\bin\Debug\ProjetoCSharp1.exe.config
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\bin\Debug\ProjetoCSharp1.exe
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\bin\Debug\ProjetoCSharp1.pdb
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.Form1.resources
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.exe
+C:\Users\Usuario\source\repos\ProjetoCSharp1\ProjetoCSharp1\obj\Debug\ProjetoCSharp1.pdb
